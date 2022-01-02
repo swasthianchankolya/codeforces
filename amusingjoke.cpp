@@ -2,7 +2,7 @@
 using namespace std;
 
 /*
-https://codeforces.com/problemset/status?my=on
+https://codeforces.com/problemset/problem/141/A
 */
 
 int main()
